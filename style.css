@@ -1,0 +1,376 @@
+body{
+	font-family: 'Catamaran', sans-serif;
+}
+.logo{
+	margin-top: 11px;
+	margin-left: 3px;
+}
+.logo-text{
+	font-weight: 600;
+	font-size: 40px;
+	color: #99BAED;
+	line-height: 53px;
+	margin-left: 65px;
+	margin-top: -55px;
+}
+.button{
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 33px;
+}
+.button1{
+	position: absolute;
+	width: 65px;
+	height: 33px;
+	left: 345px;
+	top: 67px;
+	text-decoration: none;
+	color: #000;
+}
+.button2{
+	position: absolute;
+	width: 76px;
+	height: 33px;
+	left: 441px;
+	top: 67px;
+	text-decoration: none;
+	color: #163561;
+}
+.button3{
+	position: absolute;
+	width: 76px;
+	height: 33px;
+	left: 543px;
+	top: 67px;
+	text-decoration: none;
+	color: #163561;
+}
+.button4{
+	position: absolute;
+	width: 73px;
+	height: 33px;
+	left: 650px;
+	top: 67px;
+	text-decoration: none;
+	color: #163561;
+}
+.button5{
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 1030px;
+	top: 63px;
+	text-decoration: none;
+	color: #163561;
+}
+.button6{
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 1150px;
+	top: 63px;
+	text-decoration: none;
+	color: #163561;
+}
+.btn{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 0.03em;
+
+	position: absolute;
+	width: 188px;
+	height: 76px;
+	left: 1305px;
+	top: 46px;
+	background: #99BAED;
+	border-radius: 20px;
+	border: none;
+}
+.text1 span{
+	color: #FBB400;
+}
+.h1{
+	position: absolute;
+	width: 576px;
+
+	font-style: normal;
+	color: #163561;
+	font-weight: 700;
+	font-size: 75px;
+	line-height: 100px;
+	margin-left: 75px;
+}
+.p1{
+	font-style: normal;
+	font-weight: 400;
+	line-height: 38px;
+	font-size: 25px;
+	color: #808080;
+	letter-spacing: 0.03em;
+	padding-bottom: 100px;
+}
+.btn1{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 0.03em;
+	position: absolute;
+	margin-top: -97px;
+
+	background: #99BAED;
+	border-radius: 20px;
+	border: none;
+	width: 188px;
+	height: 75px;
+}
+.img1{
+	position: absolute;
+	width: 850px;
+	height: 750px;
+	left: 665px;
+	top: 171px;
+}
+.text2 span{
+	color: #FBB400;
+}
+.h2{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 950px;
+
+	font-style: normal;
+	color: #163561;
+	font-weight: 700;
+	font-size: 75px;
+	line-height: 100px;
+}
+.p2{
+	font-style: normal;
+	font-weight: 400;
+	line-height: 38px;
+	font-size: 25px;
+	color: #808080;
+	letter-spacing: 0.03em;
+	padding-bottom: 100px;
+	margin-top: 80px;
+	margin-bottom: -48px;
+	width: 525px;
+}
+.p2_1{
+	font-style: normal;
+	font-weight: 400;
+	line-height: 38px;
+	font-size: 25px;
+	color: #808080;
+	letter-spacing: 0.03em;
+	padding-bottom: 100px;
+	width: 525px;
+}
+.btn2{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 0.03em;
+	position: absolute;
+	margin-top: -50px;
+
+	background: #99BAED;
+	border-radius: 20px;
+	border: none;
+	width: 188px;
+	height: 75px;
+}
+.img2{
+	position: absolute;
+	width: 850px;
+	height: 750px;
+	left: -30px;
+	top: 1000px;
+}
+.h3 span{
+	color: #FBB400;
+	display: flex;
+	justify-content: center;
+}
+.h3{
+	position: absolute;
+	margin-left: 575px;
+	margin-top: 1750px;
+
+	font-style: normal;
+	color: #163561;
+	font-weight: 700;
+	font-size: 70px;
+	line-height: 100px;
+}
+.card{
+	display: flex;
+	position: absolute;
+	background-color: #99BAED;
+	border-radius: 29px;
+	border: none;
+	margin-top: 2000px;
+	margin-left: 249px;
+	width: 300px;
+	height: 400px;
+}
+.card_image{
+	margin-left: 113px;
+	margin-top: 50px;
+	margin-right: 130px;
+}
+.card_img{
+	background: rgba(229, 236, 254, 1);
+	box-shadow: 0px 1px 0px 0px #008FDD;
+	border-radius: 13px;
+	width: 75px;
+	height: 100px;
+}
+.title{
+	color: #fff;
+	font-weight: 700;
+	font-size: 35px;
+	text-align: center;
+}
+.text{
+	text-align: center;
+	color: #fff;
+	font-weight: 400;
+	font-size: 21px;
+}
+.title2{
+	color: #163561;
+	font-weight: 700;
+	font-size: 35px;
+	text-align: center;
+}
+.text2{
+	text-align: center;
+	color: #153461;
+	font-weight: 400;
+	font-size: 21px;
+}
+.card2{
+	background-color: #FAFBFF;
+	border-radius: 29px;
+	border: none;
+	width: 300px;
+	height: 400px;
+	box-shadow: 0px 5px 0px #99BAED;
+	margin-right: 18px;
+}
+.card_image2{
+	margin-left: 120px;
+	margin-top: 50px;
+	margin-right: 260px;
+}
+.h4{
+	position: absolute;
+	margin-left: 575px;
+	margin-top: 2600px;
+
+	font-style: normal;
+	color: #163561;
+	font-weight: 700;
+	font-size: 70px;
+	line-height: 100px;
+}
+.h4 span{
+	color: #FBB400;
+	justify-content: center;
+}
+.galery_img_up{
+	margin-top: 2745px;
+	margin-left: 77px;
+	margin-right: -45px;
+	margin-bottom: 20px;
+}
+.galery_img_down{
+	margin-left: 77px;
+	margin-right: -45px;
+}
+.galery_btn{
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+	width: 165px;
+	height: 65px;
+	border: none;
+	background-color: #99BAED;
+	border-radius: 20px;
+}
+.galery_btn span{
+	font-size: 17px;
+	font-weight: 700;
+	color: #fff;
+}
+.footer_logo{
+	position: absolute;
+    width: 100%;
+    text-align: center;
+	margin-top: 165px;
+	margin-left: -38px;
+}
+.footer_logo-text{
+    width: 100%;
+	font-weight: 600;
+	font-size: 40px;
+	color: #99BAED;
+	line-height: 53px;
+	margin-left: 65px;
+	margin-top: -55px;
+}
+.footer_text{
+	text-align: center;
+	padding-top: 280px;
+	margin-left: 500px;
+	font-weight: 400;
+	line-height: 37px;
+	font-size: 25px;
+	color: #808080;
+	letter-spacing: 0.03em;
+	width: 525px;
+}
+.circle{
+	width: 67px;
+	height: 67px;
+	border: none;
+	border-radius: 50px;
+	background-color: #99BAED;
+	margin-left: 610px;
+	margin-right: 25px;
+}
+.facebook{
+	margin-left: 24px;
+	margin-top: 19px;
+}
+.circle2{
+	width: 67px;
+	height: 67px;
+	border: none;
+	border-radius: 50px;
+	background-color: #D3E5FF;
+	margin-left: 715px;
+	margin-top: -65px;
+}
+.twitter{
+	margin-left: 19px;
+	margin-top: 21px;
+}
+.google{
+	margin-left: 20px;
+	margin-top: 21px;
+}
+.circle3{
+	width: 67px;
+	height: 67px;
+	border: none;
+	border-radius: 50px;
+	background-color: #D3E5FF;
+	margin-left: 820px;
+	margin-top: -65px;
+}
